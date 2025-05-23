@@ -6,7 +6,7 @@ export function HeroSection() {
     <section className="relative h-[calc(100vh-64px)] flex items-center justify-center text-center px-4">
       <div className="z-10 space-y-6">
         <h1 className="text-5xl md:text-7xl font-bold leading-tight animate-fade-in-up">
-          Hi, I'm Kilo Code
+          Hi, I&apos;m Kilo Code
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground animate-fade-in-up delay-200">
           A passionate software engineer building modern web applications.
